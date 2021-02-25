@@ -4,7 +4,7 @@ import os #clear screen
 os.system('cls')
 
 
-file = open("Items to pick from.txt", "r")
+file = open("Example File.txt", "r")
 choices = []
 
 for line in file:
